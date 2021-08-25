@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Facebook
+comment1.params=navnPaaGruppe\ navn
+comment1.target=Facebook(java.lang.String,\ java.lang.String[])
+comment2.params=p1\ p2
+comment2.target=boolean\ leggTilVenner(java.lang.String,\ java.lang.String)
+comment3.params=p1\ p2
+comment3.target=boolean\ erVenner(java.lang.String,\ java.lang.String)
+comment4.params=p1\ p2
+comment4.target=boolean\ ikkeVenner(java.lang.String,\ java.lang.String)
+comment5.params=p1\ p2
+comment5.target=int\ antalFellesVenner(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ maksVenner()
+comment7.params=
+comment7.target=void\ visGraf1()
+comment8.params=
+comment8.target=void\ visGraf()
+comment9.params=
+comment9.target=void\ printUtF()
+numComments=10
